@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Play Tic Tac Toe Game Online FREE</title>
+<title>Play Tic Tac Toe Game with Ai</title>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 <meta charset="UTF-8">
 	<style>
