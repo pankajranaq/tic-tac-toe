@@ -3,8 +3,9 @@
 <head>
 <title>Play Tic Tac Toe Game Online FREE</title>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-<style>
-@charset "UTF-8";
+<meta charset="UTF-8">
+	<style>
+
 @import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700,300);
 body {
   font-family: Arial;
